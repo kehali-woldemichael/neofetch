@@ -1,4 +1,4 @@
-PREFIX = /usr
+PREFIX = $(HOME)/Core
 MANDIR = $(PREFIX)/share/man
 
 all:
